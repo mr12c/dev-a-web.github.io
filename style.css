@@ -155,6 +155,7 @@ main{
     color:var(--para-color);
     text-align: justify;
     font-size: 1.2rem;
+    text-transsform:captialize;
     
 }
 p{
